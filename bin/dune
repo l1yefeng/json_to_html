@@ -1,0 +1,4 @@
+(executable
+ (public_name json_to_html)
+ (name main)
+ (libraries yojson tyxml))
